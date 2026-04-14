@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋, I'm Hira Fatima
 
-<!--
-**itselodie/itselodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 A passionate frontend developer from India 🇮🇳
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+
+* ♟️ Chess Game (Java Swing)
+  👉 https://github.com/itselodie/chess-game
+
+---
+
+### 👯 I’m looking to collaborate on
+
+* Web development projects (HTML, CSS, JavaScript)
+
+---
+
+### 🤝 I’m looking for help with
+
+* Advanced Java & GUI improvements
+* Frontend frameworks
+
+---
+
+### 🌱 I’m currently learning
+
+* Java
+* HTML, CSS
+* JavaScript
+
+---
+
+### 💬 Ask me about
+
+* HTML
+* CSS
+* Java 
+
+---
+
+### 📫 How to reach me
+
+* 📧 [itshirafatima12@gmail.com](mailto:itshirafatima12@gmail.com)
+
+---
+
+### 👨‍💻 All of my projects are available at
+
+* https://github.com/itselodie
+
+---
+
+### ⚡ Fun fact
+
+* I think I am funny 😄
+
+---
+
+# 🚀 Skills
+
+### 💻 Programming Languages
+
+* C Programming
+* Java
+* JavaScript
+
+### 🌐 Frontend
+
+* HTML
+* CSS
+
+---
