@@ -32,14 +32,6 @@
 
 ---
 
-### 💬 Ask me about
-
-* HTML
-* CSS
-* Java 
-
----
-
 ### 📫 How to reach me
 
 * 📧 [itshirafatima12@gmail.com](mailto:itshirafatima12@gmail.com)
