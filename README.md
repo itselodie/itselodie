@@ -19,4 +19,3 @@ I'm fascinated by the intersection of technology and humanity. My goal is to cre
 ## Motto
 
 > "Turning ideas into reality, one project at a time."
-
