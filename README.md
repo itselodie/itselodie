@@ -3,7 +3,7 @@
 * 💻 Computer Engineering Student
 * 🌱 Learning and building every day
 * 🤖 Interested in AI & Human-Centered Technology
-*🌐 Web Development Enthusiast
+* 🌐 Web Development Enthusiast
 * 🖋️ Poet with a passion for innovation
 * 🚀 Hackathon Participant & Lifelong Learner
 
